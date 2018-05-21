@@ -1,5 +1,5 @@
 3_MTT_7
-Project MTT
+Project MTT UAS
 
 Nama Kelompok :
 Fianda Rizqy P. S.  (160416121)
