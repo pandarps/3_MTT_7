@@ -2,12 +2,12 @@ estimasi biaya ini kita hanya perkiraan tidak dalam harga real dan kita menghitu
 A. LOC Approach
 
   1. User Interface                    |  Estimated LOC = 2500
-  2. User Management	                 |  Estimated LOC = 2000
-  3. Database Management	             |  Estimated LOC = 3000
-  4. Software Updates Maintenance	     |  Estimated LOC = 1500
-  5. PHP Management	                   |  Estimated LOC = 2500
-  6. Server	                           |  Estimated LOC = 3000
-  7. Services and Maintenance / CMMS	 |  Estimated LOC = 1000
+  2. User Management	               |  Estimated LOC = 2000
+  3. Database Management	       |  Estimated LOC = 3000
+  4. Software Updates Maintenance      |  Estimated LOC = 1500
+  5. PHP Management	               |  Estimated LOC = 2500
+  6. Server	                       |  Estimated LOC = 3000
+  7. Services and Maintenance / CMMS   |  Estimated LOC = 1000
   
   TOTAL ESTIMATED LOC	= 15500
   
