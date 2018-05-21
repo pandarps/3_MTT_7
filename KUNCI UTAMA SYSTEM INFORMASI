@@ -1,0 +1,9 @@
+Kunci Utama Sistem Informasi
+
+a.	 Boundary     : batasan kita yaitu sampe menampilkan semua prodek kita ke customer, dan customer bisa melanjutkan proses pembelian dengan login terlebih dahulu.
+b.	 Environment  : calon” customers yang ingin membeli produk kita
+c.	 Input        : data diri customers dan juga barang yang akan dibeli
+d.	 Ouput        : produk yang dijual, diskripsi produk, harga tiap produk, no rek untuk transfer, dll yang bisa dilihat customers.
+e.	 Components   : fitur” yang ada sepertin di point 3 
+f.	 Interface    : proses pembelian dilakukan lewat system
+g.	 Storage      : penyimpanan memggunakan database dengan php
