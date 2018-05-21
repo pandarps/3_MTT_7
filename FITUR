@@ -1,0 +1,10 @@
+FITUR :
+
+a.	Login : login disini bisa dianggap konsumen itu menjadi member kita
+b.	Sing in : untu konsumen yang belum pernah membeli di web ini sehingga bisa menjadi member. Keuntungan menjadi member bisa mendapat info apabila terdapat diskon melalui email yang sudah dimasukan saat daftar.
+c.	Beli : untuk mengkeep barang yang diinginkan namun juga masih bisa dibeli orang lain apabila tidak langsung melakukan check out dalam waktu 2x 24 jam
+d.	Keranjang belanja : digunakan untuk melihat lagi barang yang ingin di beli
+e.	Check out : untuk melakukan proses pembelian selanjutnya ketika memilih check out konsumen akan disuruh untuk mengisi alamat dan memilih cara pengiriman. 
+f.	Produk : dimana itu utnuk menampilkan semua produk yang dijual oleh dawet lele
+g.	Chat: untuk alat komunikasi admin dengan konsumen melalui web.
+h.	Konfirmasi pembayaran : untuk mengkonfirmasi apabila konsumen telah melakukan pembayaran disitu konsumen harus menginoutkan foto bukti transfer dan menulis nama pemilik rekening dan nama bank.
