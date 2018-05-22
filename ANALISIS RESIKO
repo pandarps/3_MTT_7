@@ -7,4 +7,6 @@ Delivery deadline	|    40%	|   2     |
 Customer requirement   	|    80%	|   3     |
 Infrastructure	        |    20%	|   1     |
 
-Risk exposure (RE) = 
+Risk Exposure 1(Jika Programmer Belum Berpengalaman)=  R x C = 60% x 15500= $9300
+Risk Exposure 1(Jika Programmer Sudah Berpengalaman)=  R x C = 30% x 15500= $4650
+
